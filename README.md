@@ -8,7 +8,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Prachichhatrola&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Prachichhatrola&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prachichhatrola&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prachichhatrola&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Prachichhatrola" width="292px"/> </br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Prachichhatrola&icon=0&color=0)](https://visitcount.itsvg.in)
