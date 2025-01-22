@@ -18,7 +18,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 <br><br>
 
-![snake animation](https://github.com/Prachichhatrola/Prachichhatrola/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prachichhatrola/Prachichhatrola/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prachichhatrola/Prachichhatrola/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Prachichhatrola/Prachichhatrola/output/github-snake.svg" />
+</picture>   
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" /> Thanks for Visiting
 
