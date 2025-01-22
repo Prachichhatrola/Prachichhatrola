@@ -11,13 +11,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Prachichhatrola&theme=blue-green&hide_border=false)<br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prachichhatrola&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Prachichhatrola" width="292px"/> </br>
     
----
-[![](https://visitcount.itsvg.in/api?id=Prachichhatrola&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-<br><br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prachichhatrola/Prachichhatrola/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prachichhatrola/Prachichhatrola/output/github-snake.svg" />
@@ -26,3 +19,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" /> Thanks for Visiting
 
+[![](https://visitcount.itsvg.in/api?id=Prachichhatrola&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br><br>
